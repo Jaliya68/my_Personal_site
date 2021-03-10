@@ -1,0 +1,129 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 10px;
+  width: 6%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+a{
+  text-decoration:none;
+  margin: 0 20px;
+  color: #12b1b8;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1{
+  color: #6ddccf;
+  font-family: 'Condiment', cursive;
+  margin-bottom: 0px;
+  font-size: 555%;
+}
+h2{
+  color: #6ddccf;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+
+}
+h3{
+  color: #6ddccf;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0;
+
+}
+.top-container{
+  background-color: #E4F9F5;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+.pro{
+  font-weight: bold;
+}
+.programmer{
+  margin-top: 0px;
+  color: #6ddccf;
+  font-size: 35px;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.my{
+  margin-top: 70px;
+
+}
+.propic{
+width: 20%;
+float: left;
+margin-right: 70px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.problempic{
+  width:23%;
+  float: right;
+  margin-left: 70px;
+}
+
+.contact-me{
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #E4F9F5;
+}
+
+.intro{
+
+}
+.btn {
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #6ddccf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #73e6d7;
+  background-image: -webkit-linear-gradient(top, #73e6d7, #78f5e4);
+  background-image: -moz-linear-gradient(top, #73e6d7, #78f5e4);
+  background-image: -ms-linear-gradient(top, #73e6d7, #78f5e4);
+  background-image: -o-linear-gradient(top, #73e6d7, #78f5e4);
+  background-image: linear-gradient(to bottom, #73e6d7, #78f5e4);
+  text-decoration: none;
+}
+.contact-me{
+  margin-bottom: 70px;
+}
+.bottom-container{
+  padding: 30px auto 10px auto !important;
+  line-height: 2;
+}
+.copyright{
+  color: #12b1b8;
+  margin-bottom: 0px;
+}
